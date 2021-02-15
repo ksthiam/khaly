@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="333" height="297" viewBox="0 0 333 297">
+  <defs>
+    <clipPath id="clip-logo">
+      <rect width="333" height="297"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <rect width="333" height="297" fill="rgba(245,245,245,0)"/>
+    <g id="Groupe_1" data-name="Groupe 1" transform="translate(-83 -103)">
+      <g id="Tracé_1" data-name="Tracé 1" transform="translate(118.4 113)" fill="#0a192f">
+        <path d="M 139.6983184814453 287.7284851074219 L 2 213.4160766601563 L 2 81.47315216064453 L 139.6986541748047 -7.619369983673096 L 278 81.47566986083984 L 278 213.4136047363281 L 139.6983184814453 287.7284851074219 Z" stroke="none"/>
+        <path d="M 139.7009429931641 -5.238800048828125 L 4 82.56118774414063 L 4 212.2227478027344 L 139.7003479003906 285.4569396972656 L 276 212.2178192138672 L 276 82.56632995605469 L 139.7009429931641 -5.238800048828125 M 139.6962432861328 -9.999969482421875 L 280 80.38502502441406 L 280 214.609375 L 139.6962432861328 290.0000305175781 L 0 214.609375 L 0 80.38502502441406 L 139.6962432861328 -9.999969482421875 Z" stroke="none" fill="#64ffda"/>
+      </g>
+      <text id="K" transform="translate(203 152)" fill="#64ffda" font-size="190" font-family="ArialMT, Arial"><tspan x="0" y="172">K</tspan></text>
+    </g>
+  </g>
+</svg>
